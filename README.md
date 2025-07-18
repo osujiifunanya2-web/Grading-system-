@@ -1,3 +1,3 @@
-grading.calculator.py
+grade.calculator.py
 # Grading-system-
 Project 
